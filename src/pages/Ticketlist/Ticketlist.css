@@ -1,0 +1,51 @@
+.ticket_card{
+    width:100%;
+    margin-top:50px !important
+}
+.ticket_card td{
+    text-align: left !important;
+}
+.ticket_card th{
+    font-size: 12px;
+    font-weight: 700;
+    color:black
+}
+.ticket_card td{
+    font-size: 12px;
+    font-weight: 500;
+    color:black
+}
+.btn{
+    background-color: grey;
+    color:white;
+    border-radius: 5px;
+}
+.dropdown{
+    width:150px;
+    height:300px
+}
+.ulist{
+    list-style: none;
+}
+.list{
+    font-size: 12px !important;
+    margin-top: 5px;
+}
+.buttons{
+    float:right !important;
+    margin-left: 10px;
+    border: none;
+}
+.headerelements{
+    display: flex;
+}
+.ticketaccordion{
+    margin-top: 50px;
+}
+.buttonsignature{
+    border-radius: 5px;
+    float: left;
+    margin-top: 50px;
+    border-radius: 5px;
+    font-size: 12px;
+}

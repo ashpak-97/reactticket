@@ -1,0 +1,26 @@
+.contactdelete{
+   
+    font-size: 10px;
+    border-radius: 5px;
+}
+.contactdeletediv{
+    float: left;
+    gap:1rem;
+    display: flex;
+    margin-top: 20px;
+    
+}
+.tablecontact tr th{
+font-size: 9px !important;
+font-weight: 750 !important;
+color:black !important;
+}
+.tablecontact tr td{
+    font-size: 12px !important;
+    font-weight: 450 !important;
+    color:black !important;
+    }
+    .inputcontact{
+        background-color: white !important;
+        border: none;
+    }
